@@ -22,7 +22,7 @@ CONFIG = Config({
     'TORRENT_TRACKER' : '',
     'BAR_SIZE' : 10,
     'THUMBNAIL_NAME' : 'https://telegra.ph/file/067e7f3575f37be53b8c9.jpg',
-    'LOCAL' : 'id'
+    'LOCAL' : 'en'
 })
 
 # GOAL:
