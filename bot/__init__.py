@@ -21,7 +21,8 @@ CONFIG = Config({
     'ARIA2_DIR' : 'downloads',
     'TORRENT_TRACKER' : '',
     'BAR_SIZE' : 10,
-    'THUMBNAIL_NAME' : 'https://telegra.ph/file/067e7f3575f37be53b8c9.jpg',
+    'THUMBNAIL_NAME' : 'https://telegra.ph/file/b226bce9f4a6cd40f5784.jpg',
+    'SET_THUBMNAL' : 'https://telegra.ph/file/b226bce9f4a6cd40f5784.jpg',
     'LOCAL' : 'en'
 })
 
